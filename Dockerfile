@@ -1,5 +1,5 @@
 # Set the base image
-FROM ubuntu:16.04
+FROM ubuntu:18.04
 
 # Dockerfile author / maintainer 
 MAINTAINER Name <email.id@here> 
